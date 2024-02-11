@@ -1,0 +1,5 @@
+git rm --cached secret-passwords.txt
+git rm --cached .idea/
+
+secret-passwords.txt
+.idea/
